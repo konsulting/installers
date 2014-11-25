@@ -33,6 +33,7 @@ class Installer extends LibraryInstaller
         'joomla'       => 'JoomlaInstaller',
         'kirby'        => 'KirbyInstaller',
         'kohana'       => 'KohanaInstaller',
+        'kontentten'  => 'KontentTenInstaller',
         'laravel'      => 'LaravelInstaller',
         'lithium'      => 'LithiumInstaller',
         'magento'      => 'MagentoInstaller',
